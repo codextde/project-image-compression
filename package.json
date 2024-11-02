@@ -1,6 +1,6 @@
 {
   "name": "@codext/project-image-compression",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A CLI tool for compressing and optimizing images in bulk in a npm project",
   "main": "src/index.js",
   "bin": {

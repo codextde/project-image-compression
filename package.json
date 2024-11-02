@@ -4,10 +4,11 @@
   "description": "A CLI tool for compressing and optimizing images in bulk in a npm project",
   "main": "src/index.js",
   "bin": {
-    "project-image-compression": "./src/cli.js"
+    "project-image-compression": "src/cli.js"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node src/cli.js"
   },
   "keywords": [
     "image",

@@ -1,0 +1,30 @@
+{
+  "name": "@codext/project-image-compression",
+  "version": "1.0.0",
+  "description": "A CLI tool for compressing and optimizing images in bulk in a npm project",
+  "main": "src/index.js",
+  "bin": {
+    "project-image-compression": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "image",
+    "compression",
+    "optimization",
+    "webp",
+    "cli"
+  ],
+  "author": "Codext GmbH <info@codext.de>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.32.1",
+    "glob": "^10.2.2",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

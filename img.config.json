@@ -1,0 +1,10 @@
+{
+    "quality": 80,
+    "maxWidth": 1920,
+    "maxHeight": 1080,
+    "convertToWebp": false,
+    "folder": "./images",
+    "skipExisting": true,
+    "createBackup": true,
+    "outputFolder": null
+  }

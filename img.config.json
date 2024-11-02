@@ -5,6 +5,6 @@
     "convertToWebp": false,
     "folder": "./images",
     "skipExisting": true,
-    "createBackup": true,
+    "createBackup": false,
     "outputFolder": null
   }

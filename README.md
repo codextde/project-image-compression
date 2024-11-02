@@ -1,4 +1,4 @@
-# project-image-compression
+# @codext/project-image-compression
 
 A powerful and flexible CLI tool for bulk image compression and optimization. This tool helps you automatically compress and resize images in a directory while maintaining quality and optionally converting them to WebP format.
 
@@ -12,6 +12,9 @@ A powerful and flexible CLI tool for bulk image compression and optimization. Th
 - 📊 Detailed compression statistics
 - 🎯 Configurable via JSON file
 - 🚀 Support for JPG, JPEG, PNG, and WebP formats
+
+![image](https://github.com/user-attachments/assets/f5f6639c-61a7-49d3-a92b-f7ffa7a46898)
+
 
 ## Installation
 
